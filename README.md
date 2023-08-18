@@ -1,2 +1,2 @@
 # Python-GUI-Calculator
- Implementationf a Calculator using Python and Tkinter
+ Implementation of a Calculator using Python and Tkinter
